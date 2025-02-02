@@ -13,7 +13,7 @@ In today's AI-driven workflow, it's common to get assistance from Large Language
 
 ## 🌟 Key Features
 - **Clipboard Magic** - Convert copied Markdown without creating .md files
-- **Drag-and-Drop** - Convert existing Markdown files by double-clicking
+- **Double-Click Conversion** -  Auto-convert .md files to Word
 - **LLM-Optimized** - Perfect for ChatGPT/Gemini/Claude outputs
 - **Custom Output** - Choose your preferred save location
 
